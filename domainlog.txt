@@ -1,3 +1,0 @@
-当前站点：http://www.baidu.com	状态码：200
-当前站点：http://www.baidu.com/console/login/LoginForm.jsp	状态码：200
-当前站点：http://www.baidu.com/wls-wsat/CoordinatorPortType	状态码：200
