@@ -1,2 +1,0 @@
-当前站点：http://127.0.0.1:7001/console/login/LoginForm.jsp	状态码：200
-当前站点：http://127.0.0.1:7001/wls-wsat/CoordinatorPortType	状态码：200
